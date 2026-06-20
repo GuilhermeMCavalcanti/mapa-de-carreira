@@ -1,0 +1,176 @@
+{
+  "seo": {
+    "title": "Guilherme Cavalcanti | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Guilherme Cavalcanti, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Guilherme Cavalcanti",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Guilherme Cavalcanti",
+    "headline": "Cibersegurança e Perícia Digital",
+    "photo": "assets/images/foto-proa.png",
+    "photoAlt": "Foto profissional de Guilherme Cavalcanti",
+    "summary": "Estudante de Análise e Desenvolvimento na Fatec Ferraz de Vasconcelos. Possuo experiência em desenvolvimento web, banco de dados e modelagem de sistemas, além de conhecimentos em arquitetura de software, programação orientada a objetos e desenvolvimento backend. Atualmente busco aprofundar minhas competências em segurança da informação, resposta a incidentes e análise forense digital, construindo uma trajetória profissional voltada para investigação de ameaças e produção de evidências digitais.",
+    "cvUrl": "assets/docs/Curriculo_Guilherme_Cavalcanti.pdf"
+  },
+  "contacts": [
+    {
+      "label": "guilhermecavalcanto05@gmail.com",
+      "url": "mailto:guilhermecavalcanto05@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/guilhermecavalcanti2005",
+      "url": "https://www.linkedin.com/in/guilhermecavalcanti2005/"
+    },
+    {
+      "label": "github.com/GuilhermeMCavalcanti",
+      "url": "https://github.com/GuilhermeMCavalcanti"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Analista SOC",
+      "description": "Monitorar eventos de segurança, investigar alertas e identificar possíveis ameaças em ambientes corporativos utilizando ferramentas de monitoramento e correlação de eventos.",
+      "softSkills": [
+        "Atenção aos detalhes.",
+        "Pensamento analítico.",
+        "Disciplina operacional."
+      ],
+      "roadmap": [
+        "Redes TCP/IP",
+        "Linux",
+        "Análise de Logs",
+        "SIEM",
+        "MITRE ATT&CK",
+        "Monitoramento de Segurança"
+      ]
+    },
+    {
+      "title": "Analista de Segurança da Informação",
+      "description": "Atuar na proteção dos ativos da organização por meio da análise de riscos, implementação de controles de segurança e gestão de vulnerabilidades.",
+      "softSkills": [
+        "Visão crítica.",
+        "Comunicação técnica.",
+        "Resolução de problemas."
+      ],
+      "roadmap": [
+        "Gestão de Vulnerabilidades",
+        "Hardening",
+        "Análise de Riscos",
+        "ISO 27001",
+        "LGPD",
+        "Controles de Segurança"
+      ]
+    },
+    {
+      "title": "Analista de Resposta a Incidentes",
+      "description": "Investigar incidentes de segurança, realizar contenção de ameaças, erradicação de comprometimentos e coleta de evidências digitais.",
+      "softSkills": [
+        "Controle emocional.",
+        "Tomada de decisão.",
+        "Capacidade investigativa."
+      ],
+      "roadmap": [
+        "DFIR",
+        "Threat Hunting",
+        "EDR",
+        "Incident Response",
+        "Malware Analysis",
+        "Digital Evidence Collection"
+      ]
+    },
+    {
+      "title": "Analista Forense Digital",
+      "description": "Realizar aquisição, preservação e análise de evidências digitais em sistemas, dispositivos e ambientes corporativos para apoiar investigações técnicas.",
+      "softSkills": [
+        "Precisão.",
+        "Pensamento crítico.",
+        "Documentação técnica."
+      ],
+      "roadmap": [
+        "Autopsy",
+        "FTK Imager",
+        "Windows Forensics",
+        "Linux Forensics",
+        "Análise de Memória",
+        "Preservação de Evidências"
+      ]
+    },
+    {
+      "title": "Perito Digital",
+      "description": "Conduzir investigações digitais especializadas, elaborar laudos técnicos e apresentar conclusões fundamentadas a partir de evidências computacionais.",
+      "softSkills": [
+        "Imparcialidade.",
+        "Ética profissional.",
+        "Comunicação técnica avançada."
+      ],
+      "roadmap": [
+        "Laudos Técnicos",
+        "Cadeia de Custódia",
+        "Mobile Forensics",
+        "Cloud Forensics",
+        "Legislação Digital",
+        "Perícia Computacional"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 90
+        },
+        {
+          "name": "React",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Java",
+          "level": 70
+        },
+        {
+          "name": "Node.js e APIs",
+          "level": 50
+        },
+        {
+          "name": "SQL",
+          "level": 65
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+  "Git",
+  "GitHub",
+  "Metodologias Ágeis",
+  "Documentação",
+  "Modelagem de Banco de Dados",
+  "Arquitetura de Software",
+  "Resolução de Problemas",
+  "Pensamento Analítico",
+  "Trabalho em Equipe",
+  "Comunicação",
+  "Lógica de Programação"
+],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Fluente"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Intermediário"
+    }
+  ]
+}
